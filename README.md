@@ -1,4 +1,4 @@
-# 📘 项目环境说明（适用于[《动手学强化学习》](https://hrl.boyuai.com/chapter/)教程学习
+# 📘 项目环境说明（适用于[《动手学强化学习》](https://hrl.boyuai.com/chapter/)教程学习）
 ---
 
 ## 📦 安装依赖
