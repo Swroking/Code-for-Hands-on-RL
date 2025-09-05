@@ -122,7 +122,7 @@ env = gym.make('CartPole-v1', render_mode='human')
 
   1. 打开 Edge 浏览器
   2. 进入书签设置 → 导入书签
-  3. 加载 `favorites_2025_6_5.html` 文件，即可查看收藏链接
+  3. 加载 `favorites_2025_9_5.html` 文件，即可查看收藏链接
 
 ---
 
