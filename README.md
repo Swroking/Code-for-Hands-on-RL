@@ -1,9 +1,9 @@
-# 📘 项目环境说明（适用于[《动手学强化学习》](https://hrl.boyuai.com/chapter/)教程学习）
+# 📘 项目环境说明（适用于[《动手学强化学习》](https://hrl.boyuai.com/chapter/)教程学习
 ---
 
 ## 📦 安装依赖
 
-本项目主要依赖以下 Python 3.10.4 包：
+本项目主要依赖以下 Python 包：
 
 - `numpy`
 - `matplotlib`
@@ -61,7 +61,7 @@ env = gym.make('CartPole-v1', render_mode='human')
 
 ---
 
-## 📁 [项目](https://pan.baidu.com/s/1PMi-dlqUv8pYGFbzUhJCtA?pwd=pgpg)目录结构
+## 📁 [项目](https://pan.baidu.com/s/1smbZA54etFHFSRsj1207SA?pwd=9yi9)目录结构
 
 忙活半天还是没能上传GitHub，项目文件放网盘里了🫠项目的目录结构如下：
 
@@ -95,6 +95,9 @@ env = gym.make('CartPole-v1', render_mode='human')
 * `D:\Myproject\StudOnep\extra_test`
   👉 Hands-on RL 学习过程中的代码理解与实践
 
+* `D:\Myproject\StudOnep\some_new`
+  👉 一些算法补充，详见`some_new.md`文件
+
 ---
 
 ## 📚 学习资料推荐
@@ -117,12 +120,12 @@ env = gym.make('CartPole-v1', render_mode='human')
 ### 📖 RL 相关博客
 
 * 📁 文件名：`favorites_2025_6_5.html`
-* 📌 说明：一些关于强化学习、numpy、plt、PyTorch 的博客和资料以及 Gym、SMAC、[D4RL](https://zhuanlan.zhihu.com/p/11007245238) 的环境配置等，更多环境如 [Atrai、Mujoco and Box2d](https://zhuanlan.zhihu.com/p/667403508) 及相关[项目](https://pan.baidu.com/s/1ItmC_Fwcgnu1N6QY6ifhpQ?pwd=yrzd)
+* 📌 说明：一些关于强化学习、numpy、plt、PyTorch 的博客和资料以及 Gym、SMAC、[D4RL](https://zhuanlan.zhihu.com/p/11007245238) 的环境配置等，更多环境如 [Atrai、Mujoco and Box2d](https://zhuanlan.zhihu.com/p/667403508) 及相关项目可以参考 `Atrai_Mujoco.zip`
 * 🛠 使用方式：
 
   1. 打开 Edge 浏览器
   2. 进入书签设置 → 导入书签
-  3. 加载 `favorites_2025_9_5.html` 文件，即可查看收藏链接
+  3. 加载 `favorites_2025_6_5.html` 文件，即可查看收藏链接
 
 ---
 
